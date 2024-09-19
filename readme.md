@@ -24,7 +24,16 @@ The acceleration data used in this project was provided by our lecturer, Lorène
 
 1. The dataset was split into three parts: training, validation, and test. The model's performance was evaluated on the separate test dataset.
 2. During model training, the loss and accuracy of the model on the training data were tracked. Refer to the attached code for more details.
+   
+## 🌱 What We Can Learn
 
+Understanding the behavior of green turtles provides valuable insights into their ecology and conservation:
+
+  - **Behavioral Patterns**: Identifying specific behaviors helps in tracking migration routes, nesting sites, and social interactions.
+  - **Habitat Usage** : Insights into how turtles use different habitats can inform conservation efforts and habitat management.
+  - **Conservation Strategies**: Knowledge of behavior aids in developing targeted conservation measures to protect endangered species.
+  - **Impact Assessment** : Evaluating how environmental changes affect turtle behavior supports efforts to mitigate negative impacts.
+    
 ## 🌱 Future Work
 
 * 🛠️ Explore techniques for data preprocessing and augmentation.
